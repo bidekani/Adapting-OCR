@@ -51,7 +51,7 @@ the proposed hybrid approach.](images/QualResults.png)
 	* A sample lexicon is provided in `words.txt`. Download different lexicon as per need.
 
 
-## References
+### References
 
 * The OCR architecture is a CNN-LSTM model borrowed from [here](https://github.com/meijieru/crnn.pytorch)
 * The mixup criterion code is borrowed from [here](https://github.com/facebookresearch/mixup-cifar10/blob/eaff31ab397a90fbc0a4aac71fb5311144b3608b/train.py#L119)
